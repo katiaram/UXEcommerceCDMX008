@@ -1,4 +1,110 @@
 # Plataforma de ventas en línea
+## Índice
+
+- [Objetivos del proyecto](#objetivo)
+- [Problemas identificados en la investigacion (del cliente y del usuario)](#problema)
+- [Definición del Publico objetivo](#usuario)
+- [User Persona]
+- [Customer Journey Map (indicando pain y gain points)]
+- [Definición de la solución/producto](#solucion)]
+- [Link a prototipo navegable](#prototipoalta)
+- [Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.](#objetivos)
+- [Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.](#link)
+- [Video de Explicación del proyecto](#video)
+
+## Objetivo del Proyecto
+
+Marco Cerino, Fotografía experimental, comercial y de eventos.
+
+# ¿QUÉ ES LA FOTOGRAFÍA BOUDOIR?
+
+El boudoir es un tipo de fotografía femenina en lencería en la que prima la elegancia y la sensualidad de la mujer por encima de todo.
+Boudoir (pronunciado -buduar- más o menos) en francés significa tocador, y este tipo de fotografía recoge esos momentos íntimos de belleza, preparación y cuidado personal que realizan las mujeres “mientras se arreglan” en su habitación.
+
+
+¿QUÉ ES LA FOTOGRAFÍA BOUDOIR?
+El boudoir es un tipo de fotografía femenina en lencería en la que prima la elegancia y la sensualidad de la mujer por encima de todo.
+Boudoir (pronunciado -buduar- más o menos) en francés significa tocador, y este tipo de fotografía recoge esos momentos íntimos de belleza, preparación y cuidado personal que realizan las mujeres “mientras se arreglan” en su habitación.
+
+Este tipo de fotografía lleva muchos años extendida en otros países como EEUU, y desde el 2010, está empezando a entenderse en España.
+
+Ahora bien no hay que confundir las fotografías boudoir con otras que se ven por Internet, que dicen ser boudoir pero NO lo son.
+
+¿Cómo es la fotografía boudoir?
+La fotografía boudoir más que unas fotos, es una experiencia fotográfica para mujeres que vestidas con lencería y ropa análoga, se enfrentan a sus miedos y a la cámara, con un posado dulce, delicado y natural.
+
+Se busca insinuar más que enseñar, y que la fotografía transmita.
+
+La localización perfecta para un reportaje de este estilo es un lujoso dormitorio de la Suite de un buen hotel, aunque también se pueden hacer en dormitorios u otras estancias de espaciosas casas particulares.
+
+La iluminación más apropiada es la natural, aunque también se usa la artificial manejándola como si luz natural fuese. Eso sí, los contraluces que oculten detalles y realcen siluetas, son bienvenidos.
+
+
+¿QUÉ ES LA FOTOGRAFÍA BOUDOIR?
+El boudoir es un tipo de fotografía femenina en lencería en la que prima la elegancia y la sensualidad de la mujer por encima de todo.
+Boudoir (pronunciado -buduar- más o menos) en francés significa tocador, y este tipo de fotografía recoge esos momentos íntimos de belleza, preparación y cuidado personal que realizan las mujeres “mientras se arreglan” en su habitación.
+
+Este tipo de fotografía lleva muchos años extendida en otros países como EEUU, y desde el 2010, está empezando a entenderse en España.
+
+Ahora bien no hay que confundir las fotografías boudoir con otras que se ven por Internet, que dicen ser boudoir pero NO lo son.
+
+¿Cómo es la fotografía boudoir?
+La fotografía boudoir más que unas fotos, es una experiencia fotográfica para mujeres que vestidas con lencería y ropa análoga, se enfrentan a sus miedos y a la cámara, con un posado dulce, delicado y natural.
+
+Se busca insinuar más que enseñar, y que la fotografía transmita.
+
+La localización perfecta para un reportaje de este estilo es un lujoso dormitorio de la Suite de un buen hotel, aunque también se pueden hacer en dormitorios u otras estancias de espaciosas casas particulares.
+
+La iluminación más apropiada es la natural, aunque también se usa la artificial manejándola como si luz natural fuese. Eso sí, los contraluces que oculten detalles y realcen siluetas, son bienvenidos.
+
+Santander Cantabria fotografia fotografo boudoir
+La línea es muy delgada pues han de ser fotos sensuales pero no sexuales, por lo que la elegancia de la fotografiada y el buen criterio del fotógrafo es esencial.
+
+Todo lo visto hasta ahora, básicamente se puede resumir en:
+
+La fotografía boudoir son fotos de mujeres, para mujeres.
+
+Por la importancia de la experiencia en la fotografia boudoir se requiere fotografos experimentados, responsables y enfocados en dejar toda una experiencia de seguridad y confianza en las mujeres que desean la experiencia.
+
+
+## Problemas identificados en la investigacion (del cliente y del usuario)
+
+Marco Cerino, tiene un profundo interes en la fotografia boudoir, ofrece un excelente servicio, sin embargo no ha logrado monetizar su servicio.
+
+ Principales problemas identificados:
+
+        - No se conoce el Mercado Objetivos.
+        - No se define alguna propuesta de VALOR en el Servicio.
+        - No existe un flujo para la propuesta del servicio.
+        - No se definen medios para prospectar clientes.
+
+
+## Definición del Publico objetivo
+
+Mujeres independientes, seguras de si mismas que les inspira la experiencia de sentirse seguras de si mismas, mediante la fotografia BOUDOIR.
+Madres, que tras el nacimiento de su hijo, y una vez que su cuerpo prácticamente se ha recuperado, necesitan sentirse otra vez bellas.
+Mujeres que han pasado algún tipo de enfermedad y una vez recuperadas quieren sentirse a gusto consigo mismas.
+Deportistas y modelos con gran físico, e incluso que realizan estrictas dietas, que quieren tener unas fotografías que muestren su gran condición física.
+Mujeres que quieren sorprender y regalar un detalle muy especial y original a sus parejas. Aunque a veces, las sorprendidas son ellas, pues la sesión es un regalo de sus parejas.
+
+## User Persona
+
+    !.[.].(https://fotos.subefotos.com/3b65d1ebe91b680b080f365330dca122o.png)
+
+## Customer Journey Map (indicando pain y gain points)
+
+    !.[.].(https://fotos.subefotos.com/e9af2e0a6c408936e089c4a9ba52edc1o.jpg)
+
+
+## Link Prototipo
+
+https://www.figma.com/proto/hXjw0xcKv31u7BXH8n1AtW/Untitled?node-id=3%3A0&=min-zoom
+
+
+
+
+
+# Plataforma de ventas en línea
 
 ## Preámbulo
 
