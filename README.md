@@ -89,11 +89,12 @@ Mujeres que quieren sorprender y regalar un detalle muy especial y original a su
 
 ## User Persona
 
-    !.[.].(https://fotos.subefotos.com/3b65d1ebe91b680b080f365330dca122o.png)
+![](https://fotos.subefotos.com/3b65d1ebe91b680b080f365330dca122o.png)
+
 
 ## Customer Journey Map (indicando pain y gain points)
 
-    !.[.].(https://fotos.subefotos.com/e9af2e0a6c408936e089c4a9ba52edc1o.jpg)
+   ![](https://fotos.subefotos.com/e9af2e0a6c408936e089c4a9ba52edc1o.jpg)
 
 
 ## Link Prototipo
