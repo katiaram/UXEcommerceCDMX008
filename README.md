@@ -1,7 +1,7 @@
 # Plataforma de ventas en línea
 ## Índice
 
-- [Objetivos del proyecto](#objetivo)
+- [Objetivos del proyecto](#objetivo-del-proyecto)
 - [Problemas identificados en la investigacion (del cliente y del usuario)](#problema)
 - [Definición del Publico objetivo](#usuario)
 - [User Persona]
@@ -100,6 +100,11 @@ Mujeres que quieren sorprender y regalar un detalle muy especial y original a su
 ## Link Prototipo
 
 https://www.figma.com/proto/hXjw0xcKv31u7BXH8n1AtW/Untitled?node-id=3%3A0&=min-zoom
+
+
+## Link Miro
+
+https://miro.com/app/board/o9J_kxc1A34=/
 
 
 
