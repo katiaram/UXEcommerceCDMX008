@@ -2,12 +2,12 @@
 ## Índice
 
 - [Objetivos del proyecto](#objetivo-del-proyecto)
-- [Problemas identificados en la investigacion (del cliente y del usuario)](#problema)
+- [Problemas identificados en la investigacion (del cliente y del usuario)](#problemas-identificados)
 - [Definición del Publico objetivo](#usuario)
-- [User Persona]
-- [Customer Journey Map (indicando pain y gain points)]
+- [User Persona](#user-persona)
+- [Customer Journey Map (indicando pain y gain points)](#customer-journey-map)
 - [Definición de la solución/producto](#solucion)]
-- [Link a prototipo navegable](#prototipoalta)
+- [Link a prototipo navegable](#link-prototipo)
 - [Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.](#objetivos)
 - [Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.](#link)
 - [Video de Explicación del proyecto](#video)
@@ -67,7 +67,7 @@ La fotografía boudoir son fotos de mujeres, para mujeres.
 Por la importancia de la experiencia en la fotografia boudoir se requiere fotografos experimentados, responsables y enfocados en dejar toda una experiencia de seguridad y confianza en las mujeres que desean la experiencia.
 
 
-## Problemas identificados en la investigacion (del cliente y del usuario)
+## Problemas identificados
 
 Marco Cerino, tiene un profundo interes en la fotografia boudoir, ofrece un excelente servicio, sin embargo no ha logrado monetizar su servicio.
 
@@ -92,7 +92,7 @@ Mujeres que quieren sorprender y regalar un detalle muy especial y original a su
 ![](https://fotos.subefotos.com/3b65d1ebe91b680b080f365330dca122o.png)
 
 
-## Customer Journey Map (indicando pain y gain points)
+## Customer Journey Map 
 
    ![](https://fotos.subefotos.com/e9af2e0a6c408936e089c4a9ba52edc1o.jpg)
 
