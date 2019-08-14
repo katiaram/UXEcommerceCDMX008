@@ -106,9 +106,12 @@ https://www.figma.com/proto/hXjw0xcKv31u7BXH8n1AtW/Untitled?node-id=3%3A0&=min-z
 
 https://miro.com/app/board/o9J_kxc1A34=/
 
+ 
+### Video de Explicación del proyecto
 
+https://www.youtube.com/watch?v=iqfdd4Yu-7k&feature=youtu.be
 
-
+https://drive.google.com/file/d/1GxMg_Y5O4V4SvjeffgS3XH2ljhC7Eo9e/view?usp=sharing
 
 # Plataforma de ventas en línea
 
